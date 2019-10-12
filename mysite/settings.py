@@ -25,7 +25,7 @@ SECRET_KEY = 'axbbe#=lf-k&6f5+9$3t)b3ny%9)3ai*c%o1u05u9j(=((71@s'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["127.0.0.1", "pythonanywhere.com"]
+ALLOWED_HOSTS = ["127.0.0.1", "djangogirls2019.pythonanywhere.com"]
 
 
 # Application definition
